@@ -11,7 +11,7 @@ Desktop View for Ubuntu 🖥 : <br />
 
 <img src="images/Ubuntu.png" width="500"> <br />
 
-Desktop View for Robotic Arm 🦾: <br />
+Robotic Arm 🦾: <br />
 
 <img src="images/Ros.png" width="500">
 
